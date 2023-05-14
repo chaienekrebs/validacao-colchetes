@@ -1,0 +1,15 @@
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\bin\Debug\net6.0\ValidacaoColchetes.exe
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\bin\Debug\net6.0\ValidacaoColchetes.deps.json
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\bin\Debug\net6.0\ValidacaoColchetes.runtimeconfig.json
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\bin\Debug\net6.0\ValidacaoColchetes.dll
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\bin\Debug\net6.0\ValidacaoColchetes.pdb
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\obj\Debug\net6.0\ValidacaoColchetes.csproj.AssemblyReference.cache
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\obj\Debug\net6.0\ValidacaoColchetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\obj\Debug\net6.0\ValidacaoColchetes.AssemblyInfoInputs.cache
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\obj\Debug\net6.0\ValidacaoColchetes.AssemblyInfo.cs
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\obj\Debug\net6.0\ValidacaoColchetes.csproj.CoreCompileInputs.cache
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\obj\Debug\net6.0\ValidacaoColchetes.dll
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\obj\Debug\net6.0\refint\ValidacaoColchetes.dll
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\obj\Debug\net6.0\ValidacaoColchetes.pdb
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\obj\Debug\net6.0\ValidacaoColchetes.genruntimeconfig.cache
+C:\Users\chaiene.krebs\source\Projetos\Validacao Colchetes\ValidacaoColchetes\obj\Debug\net6.0\ref\ValidacaoColchetes.dll
